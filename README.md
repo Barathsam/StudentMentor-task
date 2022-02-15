@@ -1,11 +1,11 @@
-# zen-assignment-web-dev-task-student-mentor
+#Student-mentor-app
 
 <h5>Mentor and Student Assigning with Database API development</h5>
 <br>
-Heroku Url :https://mentorstudent-app.herokuapp.com//
+Heroku Url :https://mentorstudent-app.herokuapp.com/
 <br>
 <br>
-Link to FrontEnd : https://github.com/kar-thee/zen-assignment-web-dev-task-eduHub
+Link to FrontEnd : https://github.com/Barathsam/StudentMentor-task
 <br><br>
 <ul>
 TASK: 
